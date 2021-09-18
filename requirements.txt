@@ -1,5 +1,6 @@
 jupyterlab
 jupyterlab-kite
 matplotlib
+mplfinance
 numpy
 pandas
