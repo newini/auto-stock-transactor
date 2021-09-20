@@ -1,3 +1,4 @@
+ipympl
 jupyterlab
 jupyterlab-kite
 matplotlib
