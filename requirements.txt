@@ -5,3 +5,4 @@ matplotlib
 mplfinance
 numpy
 pandas
+pandas_datareader
